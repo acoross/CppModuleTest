@@ -1,0 +1,1 @@
+cl /c /experimental:module /module:name %2 /module:export %2.cpp /module:output %1/%2.ifc
